@@ -30,5 +30,5 @@ Raw Divvy data files are not included due to GitHub’s 25 MB limit but are avai
 
 ---
 
-📈 *Author: Luca Nasillo*  
+*Author: Luca Nasillo*  
 *Tools used: R, tidyverse, lubridate, ggplot2, leaflet, geosphere, htmltools*
