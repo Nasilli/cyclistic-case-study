@@ -11,7 +11,7 @@ This project is my version of the **Google Data Analytics Capstone**, exploring 
 ## Contents
 - `capstone_project_cleaning_script.R` - full R Script detailing all this case study's code prior to formal RMD formatting
 - `Capstone-Project-Write-Up.Rmd` — full R Markdown script (data cleaning, analysis, visualisation, and mapping)
-- `Capstone-Project-Write-Up.html` — rendered report (open in browser)
+- `index.html` — rendered report (open in browser)
 - `chicago_hotspots.csv` — reference data for tourist hotspot proximity analysis
 
 ## Summary
