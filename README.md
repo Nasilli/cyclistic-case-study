@@ -1,3 +1,9 @@
+##  View the Full Report
+
+[**Click here to view the interactive HTML report**](https://nasilli.github.io/cyclistic-case-study/)
+
+---
+
 # Cyclistic Case Study
 
 This project is my version of the **Google Data Analytics Capstone**, exploring how Cyclistic (Divvy) bike-share customers differ between *casual riders* and *annual members*.
